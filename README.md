@@ -5,7 +5,7 @@ Grupo:
 - Caio Emmanuel Soares Rocha
 - Diego Saragoza da Silva
 - Gabriel de Castro Ribeiro
-- Link do GitHub Pages: 
+- Link do GitHub Pages: https://diegosaragozasilva.github.io/tecweb-2021-1-desafio-css/
 
 ## Desafio CSS
 
